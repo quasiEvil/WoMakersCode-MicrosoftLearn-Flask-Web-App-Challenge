@@ -12,7 +12,7 @@ Individual project developed during the Back-End Python and Django Bootcamp offe
 - HTML/CSS/JavaScript
 
 ### Usage
-1. Access the [Simple AI Translator](http://simple-ai-translator.azurewebsites.net/)
+1. Access [Simple AI Translator](http://simple-ai-translator.azurewebsites.net/)
 2. Type in whatever text you wish to translate
 3. Select the target language and click on "Translate!"
 4. That's it!
