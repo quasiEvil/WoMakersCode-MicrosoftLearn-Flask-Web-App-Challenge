@@ -2,7 +2,7 @@
 <br><br>
 <img src="https://github.com/quasiEvil/ProjetoFinal_SquadAmeenahGuribFakim/assets/140989367/bf85af97-f4d6-420b-85e2-b23827a9dbca" height="60"><img src="https://github.com/quasiEvil/ProjetoFinal_SquadAmeenahGuribFakim/assets/140989367/a5d109fc-beef-4ef7-b7aa-28c31d5eeb53" height="60">
 
-# AI Web App with Python and Flask Challenge (Microsoft Learn)
+# AI Web App with Python and Flask Challenge
 
 ## Overview
 Individual project developed during the Back-End Python and Django Bootcamp offered by WoMakersCode Brasil. This application uses Python and Flask to create a simple AI translator.
